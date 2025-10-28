@@ -1,3 +1,5 @@
 banane
 mehl
-
+brot
+bier
+leberkaaas
