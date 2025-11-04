@@ -3,3 +3,7 @@ mehl
 brot
 bier
 leberkaaas
+chips
+wurst
+käse
+pizza
