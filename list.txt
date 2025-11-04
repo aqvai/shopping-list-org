@@ -1,6 +1,6 @@
-banane
-mehl
-brot
+äpfel
+birnen
+bananen
 bier
 leberkaaas
 chips
