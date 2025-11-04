@@ -3,6 +3,9 @@ mehl
 brot
 bier
 leberkaaas
+-normal
+-pikant
+-käse
 chips
 wurst
 käse
