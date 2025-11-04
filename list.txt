@@ -10,3 +10,4 @@ pizza
 orangen
 döner
 sommerspritzer
+salat
