@@ -3,11 +3,10 @@ mehl
 brot
 bier
 leberkaaas
--normal
--pikant
--käse
 chips
 wurst
 käse
 pizza
 orangen
+döner
+sommerspritzer
